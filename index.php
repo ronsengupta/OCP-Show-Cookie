@@ -1,6 +1,5 @@
 <?php
 echo "<h1>Hello Kitty<h1>";
-echo gethostname();
+phpinfo()
 print_r($_COOKIE)
-echo $_SERVER["REMOTE_ADDR"];
 ?>

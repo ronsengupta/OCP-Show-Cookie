@@ -1,3 +1,3 @@
 <?php
-print request.cookies
+echo $_COOKIE
 ?>

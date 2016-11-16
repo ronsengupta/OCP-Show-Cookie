@@ -1,8 +1,6 @@
 <?php
-echo "<h1>Hello OpenShift<h1>";
-echo "Container Name";
+echo "<h1>Hello Kitty<h1>";
 echo gethostname();
 print_r($_COOKIE)
-echo "Client IP";
 echo $_SERVER["REMOTE_ADDR"];
 ?>

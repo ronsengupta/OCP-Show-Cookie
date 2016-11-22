@@ -1,2 +1,2 @@
 # php-hello-world
-Simple application for OpenShift Demo
+Simple PHP app to show cookie
